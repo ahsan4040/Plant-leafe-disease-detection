@@ -56,6 +56,8 @@ class HomeScreen extends StatelessWidget {
               ),
             ),
             SizedBox(height: 10),
+            Text("ahsan"),
+            SizedBox(height: 10),
             Center(
               child: Image.network(
                 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJoqOPbtEYLFtyAoqvRriNAIN0IKeFoRofLQ&s",
